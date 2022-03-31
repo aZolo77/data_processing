@@ -1,1 +1,3 @@
-# Библиотеки Python для Data Science
+# ДЗ 3: обучение с учителем
+
+> первые три задания выполненны в файле _hw_3_supervised_learning.ipynb_
