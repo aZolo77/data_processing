@@ -1,1 +1,5 @@
-# Библиотеки Python для Data Science
+# Проект по Data Sciense
+
+> Код находится в файле `house_price_prediction_copy.ipynb`
+
+> Это разобранная копия кода. Собственный подготовлю в ближайшие дни
